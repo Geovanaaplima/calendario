@@ -47,14 +47,14 @@ O arquivo JavaScript contém a função `colorirDia()` que é chamada quando o u
 
 Este README fornece uma visão geral do projeto e explica a estrutura do código HTML, CSS e JavaScript.
 
-Funcionalidades do Calendário:
+# Funcionalidades do Calendário:
 Representação dos Veículos:
 
 Os quatro veículos serão representados por cores diferentes no calendário. 
 
 Por exemplo, um caminhão pode ser azul, outro verde, outro rosa e outro roxo.
 
-Agendamento dos Fretes:
+# Agendamento dos Fretes:
 
 Cada dia do calendário representará um dia do mês.
 
@@ -62,7 +62,7 @@ Os dias em que um veículo já tem um frete agendado serão coloridos com a cor 
 
 Se um veículo já realizou três fretes no mês, os dias restantes do mês para esse veículo não estarão disponíveis para agendamento.
 
-Regras de Agendamento:
+# Regras de Agendamento:
 
 Um veículo não pode fazer mais de um frete no mesmo dia. 
 
@@ -71,7 +71,7 @@ Cada veículo pode realizar até três fretes por mês.
 
 Assim, uma vez que um veículo tenha feito três fretes, os dias restantes do mês para esse veículo não estarão disponíveis para agendamento.
 
-Implementação:
+# Implementação:
 
 O JavaScript será responsável por controlar as interações do usuário com o calendário.
 
@@ -83,7 +83,7 @@ Se o dia estiver disponível, o JavaScript colore o dia com a cor do veículo se
 
 Se o veículo já realizou três fretes ou o dia já está agendado, uma mensagem de erro é exibida ao usuário, informando que o agendamento não é possível.
 
-Benefícios:
+# Benefícios:
 
 O calendário oferece uma visualização clara dos dias disponíveis para agendamento de fretes.
 
@@ -92,3 +92,5 @@ As cores dos veículos facilitam a identificação e a organização dos agendam
 As regras de agendamento garantem uma distribuição equitativa dos fretes entre os veículos e evitam conflitos de agendamento.
 
 Com essa implementação, a equipe de agendamento da empresa Alpha terá uma ferramenta eficaz para gerenciar os agendamentos de fretes de forma organizada e eficiente.
+
+![](5.png)
