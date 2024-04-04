@@ -94,3 +94,8 @@ As regras de agendamento garantem uma distribuição equitativa dos fretes entre
 Com essa implementação, a equipe de agendamento da empresa Alpha terá uma ferramenta eficaz para gerenciar os agendamentos de fretes de forma organizada e eficiente.
 
 ![](5.png)
+
+# Autor 
+* Geovana Aparecida de Lima
+
+<img src="Geovana.jpg" width=200 >
