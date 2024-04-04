@@ -1,42 +1,71 @@
-body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
 }
+
 .calendar {
     border-collapse: collapse;
-    width: 100%;
+    position: relative;
+    right: -35%;
 }
+
 .calendar th, .calendar td {
     border: 1px solid #dddddd;
     text-align: center;
-    padding: 8px;
+    padding: 12px;
 }
+
 .calendar th {
-    background-color: #f2f2f2;
+    background-color: #092ae4;
+    color: white;
 }
+
 .calendar td {
-    background-color: #ffffffa1;
+    background-color: #ffffff;
 }
+
 label {
-    margin-right: 10px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: #000000;
 }
+
 input[type="number"] {
     width: 50px;
+    padding: 8px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
 }
+
 input[type="submit"] {
-    padding: 8px 16px;
-    background-color: #4CAF50;
+    padding: 10px 20px;
+    background-color: #0d32d3;
     color: white;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
-input[type="submit"]:hover {
-    background-color: #45a082;
 
+input[type="submit"]:hover {
+    background-color: #124f88;
 }
-.inf{
-    margin-left: 35%;
+
+.inf {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
-.inf2{
+
+.inf2 {
     text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+    color: #666666;
+}
+table,td,th{
+border-style: solid;
+padding: 33%;
+border-collapse: collapse;
+text-align: center;
 }
