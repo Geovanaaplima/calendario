@@ -36,7 +36,8 @@ O arquivo CSS define os estilos para os elementos na página web, incluindo:
 - Cores de fundo, bordas, alinhamento de texto e margens para os elementos.
 
 ![](4.png)
-
+![](5.png)
+![](6.png)
 ## JavaScript (calendar.js)
 
 O arquivo JavaScript contém a função `colorirDia()` que é chamada quando o usuário clica no botão de envio no formulário. Esta função obtém o dia e a cor selecionados pelo usuário e colore o dia correspondente na tabela do calendário.
@@ -93,7 +94,7 @@ As regras de agendamento garantem uma distribuição equitativa dos fretes entre
 
 Com essa implementação, a equipe de agendamento da empresa Alpha terá uma ferramenta eficaz para gerenciar os agendamentos de fretes de forma organizada e eficiente.
 
-![](5.png)
+![](7.png)
 
 # Autor 
 * 
