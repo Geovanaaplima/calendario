@@ -36,7 +36,9 @@ O arquivo CSS define os estilos para os elementos na página web, incluindo:
 - Cores de fundo, bordas, alinhamento de texto e margens para os elementos.
 
 ![](4.png)
+
 ![](5.png)
+
 ![](6.png)
 ## JavaScript (calendar.js)
 
