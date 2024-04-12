@@ -35,13 +35,13 @@ O arquivo CSS define os estilos para os elementos na página web, incluindo:
 - Estilos para o corpo da página, a tabela do calendário e os elementos de formulário.
 - Cores de fundo, bordas, alinhamento de texto e margens para os elementos.
 
-![](3.png)
+![](4.png)
 
 ## JavaScript (calendar.js)
 
 O arquivo JavaScript contém a função `colorirDia()` que é chamada quando o usuário clica no botão de envio no formulário. Esta função obtém o dia e a cor selecionados pelo usuário e colore o dia correspondente na tabela do calendário.
 
-![](4.png)
+![](3.png)
 
 ---
 
@@ -96,6 +96,7 @@ Com essa implementação, a equipe de agendamento da empresa Alpha terá uma fer
 ![](5.png)
 
 # Autor 
-* Geovana Aparecida de Lima
+* 
 
-<img src="Geovana.jpg" width=200 >
+<img src="" width=200 >
+
