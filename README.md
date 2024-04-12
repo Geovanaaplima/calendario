@@ -99,7 +99,7 @@ Com essa implementação, a equipe de agendamento da empresa Alpha terá uma fer
 ![](7.png)
 
 # Autor 
-* 
+* Geovana Aparecida de Lima
 
-<img src="" width=200 >
+<img src="Geovana.jpg" width=200 >
 
